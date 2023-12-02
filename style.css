@@ -184,18 +184,17 @@
         margin:0px auto;
     }
     .design02 .text{
-        padding:100px;
+        word-break: keep-all;
+        padding-left: 100px;
+        padding-right:100px;
+
     }
     .design02 .text .heading{
         font-size: 24px;
         font-weight: normal;
         text-align: center;
     }
-    .design02 .text .body{
-        font-size: 24px;
-        font-weight: normal;
-        text-align: left;
-    }
+
 .design03{
         width:100%;
     }
