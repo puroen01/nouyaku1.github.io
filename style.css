@@ -180,11 +180,10 @@
     }
     .design02 .image{
         display:block;
-        max-width:70%;
+        max-width:50%;
         margin:0px auto;
     }
     .design02 .text{
-        word-break: keep-all;
         padding-left: 100px;
         padding-right:100px;
 
